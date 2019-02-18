@@ -13,6 +13,6 @@ https://dmrbs.github.io/bootstrap-examples/bootstrap-sablonu.html
 https://dmrbs.github.io/bootstrap-examples/bootstrap-action.html
 
 ### Fourth Example
-<img src="https://github.com/dmrbs/bootstrap-examples/blob/master/media/example3.png">
+<img src="https://github.com/dmrbs/bootstrap-examples/blob/master/media/example4.png">
 https://dmrbs.github.io/bootstrap-examples/bootstrap-example.html
 
